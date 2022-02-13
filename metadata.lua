@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "National Mars Mission",
 	'description', "",
 	'image', "thumbnail.png",
-	'last_changes', "TBD",
+	'last_changes', "https://github.com/FizzleFuze/National_Mars_Mission/blob/master/changelog.md",
 	'ignore_files', {
 		"*.git/*",
 		"*.svn/*",
