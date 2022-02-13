@@ -1,0 +1,23 @@
+return PlaceObj('ModDef', {
+	'title', "National Mars Mission",
+	'description', "",
+	'image', "thumbnail.png",
+	'last_changes', "TBD",
+	'ignore_files', {
+		"*.git/*",
+		"*.svn/*",
+		"*.png",
+	},
+	'id', "FM0h1m",
+	'steam_id', "2750643054",
+	'pops_desktop_uuid', "bfb3efc9-041a-462a-838a-7a944ce759d5",
+	'pops_any_uuid', "a4932982-5582-4496-a617-32f3c6949c5f",
+	'author', "Fizzle_Fuze",
+	'version_major', 1,
+	'version_minor', 1,
+	'version', 69,
+	'lua_revision', 1009413,
+	'saved_with_revision', 1010838,
+	'saved', 1644632887,
+	'TagMissionSponsors', true,
+})
